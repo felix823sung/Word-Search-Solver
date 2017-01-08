@@ -1,0 +1,19 @@
+WORD                   NUMBER OF OCCURRENCES
+system                           1
+screen                           1
+mouse                            0
+keyboard                         1
+computer                         1
+busy                             0
+business                         0
+bus                              0
+q w e r t y u i o C 
+a S Y S T E M k O z 
+x C v b n m q M e r 
+t R u i o p P s d f 
+g E j k l U x c v b 
+n E q w T r t y u i 
+a N d E g h j k l z 
+x n R b n m q w e r 
+t y u i o p a s d f 
+g h D R A O B Y E K 
